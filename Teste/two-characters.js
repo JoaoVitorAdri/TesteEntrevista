@@ -35,5 +35,3 @@ function alternate(s) {
     return maior;
 }
  
-let s = 'beabeefeab';
-alternate(s);
