@@ -13,6 +13,3 @@ function livro(n, p){
     }
 
 }
-console.log(livro(5,3))
-console.log(livro(6,2))
-console.log(livro(5,4))
