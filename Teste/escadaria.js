@@ -11,5 +11,3 @@ function escadaria(n){
         console.log(s);
     }
 }
-
-escadaria(5)
